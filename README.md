@@ -22,6 +22,7 @@ My professional background is in payment operations, reconciliation, cross-borde
 
 | Project | Research or engineering focus | Status |
 | :--- | :--- | :--- |
+| [**Project Sentinel**](https://github.com/samuel6183/project-sentinel) | Synthetic payments analytics, settlement reconciliation and machine learning risk evaluation | Implementation committed; validation pending |
 | [**CivicLens Africa**](https://github.com/samuel6183/CivicLens-Africa) | Public document discovery, economic indicators, data ingestion and searchable APIs | MVP; hosting verification pending |
 | [**Kenya Monetary Policy Analysis**](https://github.com/samuel6183/kenya-monetary-policy-analysis) | Monetary policy transmission, lending rates, Treasury bill yields and inflation | Research in progress |
 
