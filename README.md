@@ -1,58 +1,48 @@
-<div align="center">
-
 # Samuel Ndungu Njoroge
 
-### Data Science · Financial Economics · Payment Operations
+**Financial Data Science · Economic Intelligence · Data Engineering**
 
-![Education: Actuarial Science](https://img.shields.io/badge/Education-Actuarial%20Science-2563eb?style=for-the-badge) ![MSc: Data Science in progress](https://img.shields.io/badge/MSc-Data%20Science%20in%20progress-0f766e?style=for-the-badge) ![Focus: Quantitative Research](https://img.shields.io/badge/Focus-Quantitative%20Research-6941c6?style=for-the-badge)
+Actuarial Science graduate and MSc Data Science student with professional experience in payment operations, reconciliation, cross-border transactions and AML/KYC. My portfolio connects quantitative research with reproducible software and practical financial systems.
 
-Building reproducible analytical tools for financial systems, economic research and African public data.
+[LinkedIn](https://www.linkedin.com/in/samuel-ndungu-6800b8194/) · [Repositories](https://github.com/samuel6183?tab=repositories)
 
-[LinkedIn](https://www.linkedin.com/in/samuel-ndungu-6800b8194/) · [Projects](https://github.com/samuel6183?tab=repositories)
+## Selected research and engineering
 
-</div>
+| Project | Focus | Evidence |
+| --- | --- | --- |
+| [Kenya Monetary Policy Analysis](https://github.com/samuel6183/kenya-monetary-policy-analysis) | Econometrics, monetary transmission and inflation forecasting | [Working paper](https://github.com/samuel6183/kenya-monetary-policy-analysis/blob/main/RESEARCH_PAPER.pdf) · [Executed notebook](https://github.com/samuel6183/kenya-monetary-policy-analysis/blob/main/notebooks/Research_Analysis.ipynb) |
+| [Project Sentinel](https://github.com/samuel6183/project-sentinel) | Synthetic transaction risk, reconciliation and cost-sensitive ML | [Research paper](https://github.com/samuel6183/project-sentinel/blob/main/RESEARCH_PAPER.md) · [Confirmation protocol](https://github.com/samuel6183/project-sentinel/blob/main/docs/confirmation_protocol.md) |
+| [CivicLens Africa](https://github.com/samuel6183/CivicLens-Africa) | Public-data ingestion, economic intelligence and searchable APIs | [Technical case study](https://github.com/samuel6183/CivicLens-Africa/blob/main/CASE_STUDY.md) · [Architecture](https://github.com/samuel6183/CivicLens-Africa/blob/main/docs/architecture.md) |
+| [AlphaScope Investment Intelligence](https://github.com/samuel6183/alphascope-investment-intelligence) | Asset screening, historical risk and scenario valuation | [Case study](https://github.com/samuel6183/alphascope-investment-intelligence/blob/main/CASE_STUDY.md) · [Methodology](https://github.com/samuel6183/alphascope-investment-intelligence/blob/main/docs/methodology.md) |
 
----
+### Research highlights
 
-## About me
-
-My professional background is in payment operations, reconciliation, cross-border transactions and AML/KYC. I hold a BSc in Actuarial Science and am pursuing an MSc in Data Science at Kabarak University. I use quantitative methods to investigate financial and economic questions, with a particular interest in Kenya and the wider African economy.
-
-## Featured projects
-
-| Project | Research or engineering focus | Status |
-| :--- | :--- | :--- |
-| [**Project Sentinel**](https://github.com/samuel6183/project-sentinel) | Synthetic payments analytics, settlement reconciliation and machine learning risk evaluation | Implementation committed; validation pending |
-| [**CivicLens Africa**](https://github.com/samuel6183/CivicLens-Africa) | Public document discovery, economic indicators, data ingestion and searchable APIs | MVP; hosting verification pending |
-| [**Kenya Monetary Policy Analysis**](https://github.com/samuel6183/kenya-monetary-policy-analysis) | Monetary policy transmission, lending rates, Treasury bill yields and inflation | Research in progress |
+- **Monetary policy:** 119 monthly observations from CBK and KNBS; dynamic regression, VAR diagnostics and chronological forecasting comparisons. Results are associative, not causal.
+- **Transaction risk:** 3.1 million generated fictional attempts across 31 distinct seeds; cost-sensitive comparisons with independent simulation replication. Synthetic results do not establish real-world fraud performance.
+- **Public intelligence:** six curated public-document records and economic indicator integration using World Bank data.
+- **Investment analytics:** historical risk metrics, fixed-universe backtesting and scenario analysis; no claim of demonstrated trading gains.
 
 ## Technical toolkit
 
-![Python: Data science](https://img.shields.io/badge/Python-Data%20science-3776ab?style=for-the-badge) ![R: Statistics](https://img.shields.io/badge/R-Statistics-276dc3?style=for-the-badge) ![SQL: Data queries](https://img.shields.io/badge/SQL-Data%20queries-336791?style=for-the-badge) ![Pandas: Data analysis](https://img.shields.io/badge/Pandas-Data%20analysis-150458?style=for-the-badge) ![FastAPI: APIs](https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge) ![MongoDB: Database](https://img.shields.io/badge/MongoDB-Database-47a248?style=for-the-badge)
-
 | Area | Tools and methods |
-| :--- | :--- |
-| Quantitative analysis | Python, R, NumPy, SciPy, statsmodels, SPSS, Stata |
-| Data engineering | pandas, SQL, MongoDB, REST APIs, Git |
-| Visualization | Plotly, Matplotlib, Excel |
-| Financial operations | Payment processing, reconciliation, AML/KYC, financial reporting |
+| --- | --- |
+| Statistical research | Python, R, pandas, NumPy, SciPy, statsmodels, SPSS, Stata |
+| Machine learning | Classification, anomaly detection, chronological validation, cost-sensitive evaluation |
+| Data engineering | REST APIs, SQL, MongoDB, Apache Cassandra, Docker, Git |
+| Applications and visualization | FastAPI, Streamlit, Plotly, Matplotlib, Excel |
+| Financial operations | Payments, reconciliation, AML/KYC, financial reporting |
 
-## Research agenda
+## Research principles
 
-- Monetary policy transmission and applied econometrics
-- Public debt sustainability and development economics
-- Financial risk and payment operations analytics
-- African public data infrastructure
+Document data provenance, preserve reproducible workflows, distinguish synthetic from observed data, evaluate models out of sample, and disclose limitations. Working papers are not peer-reviewed publications; public application hosting is not claimed unless verified.
 
 ## Education
 
-**MSc Data Science** — Kabarak University (in progress)  
-**BSc Actuarial Science** — Kirinyaga University
+- MSc Data Science — in progress, Kabarak University
+- BSc Actuarial Science — Kirinyaga University
 
----
+## Research interests
 
-<div align="center">
+Monetary policy and financial econometrics · Sovereign debt and development economics · Payment risk and financial crime analytics · African public-data infrastructure
 
-[Connect on LinkedIn](https://www.linkedin.com/in/samuel-ndungu-6800b8194/) · [Explore my repositories](https://github.com/samuel6183?tab=repositories)
-
-</div>
+[Connect on LinkedIn](https://www.linkedin.com/in/samuel-ndungu-6800b8194/)
